@@ -1,1 +1,1 @@
-# serverless-app-assignment-caroline
+# 3.7_SQS
